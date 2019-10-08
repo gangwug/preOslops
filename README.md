@@ -10,7 +10,7 @@ This repository contains the revised CYCLOPS pipleline that was developed to ord
 Population-level rhythms in human skin with implications for circadian medicine. Proc Natl Acad Sci U S A. 2018. 115(48):12313-12318).
 It was furter improved to order human epidermis and dermis samples from different body sites. 
 
-## File introduction
+## Files
 
 RonCYCLOPSv3: the source code file from CYCLOPS
 

@@ -25,7 +25,7 @@ CYCLOPSout: the output folder for CYCLOPS ordering
 
 example.ToRunCYCLOPS.csv: an example of expression data
 
-skinBenchmarkMatrixARNTLorder.csv: the benchmark correlation matrix used for down-sampling (minor different from the 17 clock and clock-associated genes, which may be helpful for avoiding the bias of using same 17 seed gene list)
+skinBenchmarkMatrixARNTLorder.csv: the benchmark correlation matrix used for down-sampling (minor different from the 17 clock and clock-associated genes, which may be helpful for avoiding the bias of using the same 17 seed gene list during ordering)
 
 randomSampling.R: the code file for maximizing the oscillation signal by down-sampling
 

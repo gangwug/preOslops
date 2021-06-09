@@ -11,7 +11,7 @@ This repository contains the revised CYCLOPS pipleline that was developed to ord
 
 ## Files
 
-RonCYCLOPSv3: the source code file from CYCLOPS
+RonCYCLOPSv3: the source julia code file from CYCLOPS (julia version 0.3.12)
 
 runCYCLOPS_Eigen.jl: the code file for getting the Eigen genes
 

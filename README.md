@@ -7,7 +7,7 @@ rhythms in health and disease. Proc Natl Acad Sci U S A. 2017. 114(20):5312-5317
 CYCLOPS could be found from the GitHub page of Dr. [Ron C. Anafi](https://github.com/ranafi). 
 
 This repository contains the revised CYCLOPS pipleline that was developed to order ~300 human epidermis samples published on 
-[PNAS](https://www.pnas.org/content/115/48/12313.long) (Wu G., et al., Population-level rhythms in human skin with implications for circadian medicine. Proc Natl Acad Sci U S A. 2018. 115(48):12313-12318). It was furter improved to order more human epidermis and dermis samples collected from different body sites published on [Genome Medicine](https://link.springer.com/article/10.1186/s13073-020-00768-9). 
+[PNAS](https://www.pnas.org/content/115/48/12313.long) (Wu G., et al., Population-level rhythms in human skin with implications for circadian medicine. Proc Natl Acad Sci U S A. 2018. 115(48):12313-12318). It was furter improved to order more human epidermis and dermis samples collected from different body sites published on [Genome Medicine](https://link.springer.com/article/10.1186/s13073-020-00768-9) (Wu G., et al., A population-based gene expression signature of molecular clock phase from a single epidermal sample. Genome Med. 2020. 12(1):73. doi: 10.1186/s13073-020-00768-9). 
 
 ## Files
 

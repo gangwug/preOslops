@@ -1,8 +1,8 @@
-# NOTE
+# IMPORTANT NOTE
 
 ## Files in this repository are merged into a new repository-[Oslops](https://github.com/gangwug/Oslops). Please visity the new repository for detailed information and future updates.
 
-## Files
+### Files
 
 RonCYCLOPSv3: the source julia code file from CYCLOPS (julia version 0.3.12)
 
@@ -22,7 +22,7 @@ skinBenchmarkMatrixARNTLorder.csv: the benchmark correlation matrix used for dow
 
 randomSampling.R: the code file for maximizing the oscillation signal by down-sampling
 
-## Advice about running this pipeline
+### Advice about running this pipeline
 
 Step 1: prepare the input data file (e.g., example.ToRunCYCLOPS.csv). Make sure the first column is gene name/id, other columns are samples, and make sure that there are no duplicate gene name/id in the first column. If the input expression data file does not have a functional clock, tested by [nCV](https://github.com/gangwug/nCV) using 'skinBenchmarkMatrixARNTLorder.csv' as the reference matrix, randomSampling.R may be helpful for selecting subset of samples with a functional clock. 
 
@@ -34,6 +34,6 @@ Step 4: run 'runCYCLOPS_Order.jl' to order the samples using selected eigen gene
 
 Step 5: Check and evaluate the output results in 'CYCLOPSout' folder. 
 
-## License
+### License
 This package is free and open source software, licensed under GPL(>= 2).
 

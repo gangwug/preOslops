@@ -1,6 +1,6 @@
-### NOTE
+# NOTE
 
-Files in this repository are merged into a new repository-[Oslops](https://github.com/gangwug/Oslops). Please visity the new repository for detailed information and future updates.
+## Files in this repository are merged into a new repository-[Oslops](https://github.com/gangwug/Oslops). Please visity the new repository for detailed information and future updates.
 
 ## Files
 
